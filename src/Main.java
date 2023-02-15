@@ -3,8 +3,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Task11 task11 = new Task11();
-        task11.Invoke();
+        Task13 task13 = new Task13();
+        task13.Invoke();
     }
 
     static void exesice1(String[] args)
